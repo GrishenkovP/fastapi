@@ -1,0 +1,6 @@
+date;city;manager;product;amount
+2020-01-01;city1;user1;product1;10
+2020-01-02;city2;user2;product2;20
+2020-01-03;city3;user1;product3;30
+2020-01-04;city4;user2;product1;40
+2020-01-05;city5;user1;product2;50
